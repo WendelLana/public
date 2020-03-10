@@ -1,2 +1,2 @@
 # public
-Deploits e mais
+Para armazenamento de arquivos
